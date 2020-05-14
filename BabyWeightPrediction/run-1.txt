@@ -1,0 +1,1 @@
+W(w0, w1, w2) vector got from task 13 (training + test dataset) is CHANGED to:  [1.82039748 6.66178506 1.06327032]
